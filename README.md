@@ -1,6 +1,6 @@
 # Hệ thống chữ ký số DSA bằng Java Swing
 
-Ứng dụng minh họa chữ ký số DSA và xác thực tính toàn vẹn dữ liệu. Dự án được tách lớp để dễ đọc, dễ bảo trì và đúng hơn với mô hình một hệ thống hoàn chỉnh.
+Ứng dụng minh họa chữ ký số DSA và xác thực tính toàn vẹn dữ liệu. 
 
 ## Chức năng
 
